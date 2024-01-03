@@ -53,7 +53,7 @@
     font-family: lora;
     text-transform:none;
     font-weight: 400;
-    font-size: 60px;
+    font-size: 70px;
     text-align: center;
     letter-spacing: 1px;
     padding-top: 100px;
@@ -125,6 +125,15 @@
 }
 
 
+
+
+@media (max-width: 768px){
+    #size {
+      font-size: 50px;
+    }
+}
+
+
 #more {
     color: #0c0c0c;
     font-family: titan one;
@@ -153,7 +162,7 @@
 
 .drink-botton .right-side-last h3 {
     font-family: lora;
-    font-size: 60px;
+    font-size: 70px;
     color: #3E0628;
     padding-top: 15px;
     line-height: 72px;
@@ -229,7 +238,7 @@
 
 .high .left-side-hight p {
    font-family: roboto;
-   font-size: 25px;
+   font-size: 20px;
    line-height: 36px;
    font-weight: 400;
 }
